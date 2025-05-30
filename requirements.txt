@@ -1,0 +1,6 @@
+flask
+pyTelegramBotAPI
+yfinance
+apscheduler
+pytz
+schedule

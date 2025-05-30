@@ -1,0 +1,9 @@
+# config.py
+
+# معلومات تيليجرام
+TELEGRAM_TOKEN = "8023126208:AAGHcJOsYBdz4IrfF5MpRoFGQ4DfI9q7nRQ"
+TELEGRAM_USER_ID = 1577366333
+
+# وضع المحاكاة (True = وهمي)
+IS_SIMULATION = True
+SIMULATED_CAPITAL = 5000.0
